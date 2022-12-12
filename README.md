@@ -1,1 +1,3 @@
-# invas-o-pirata
+# Invasão Pirata
+
+versão em português
